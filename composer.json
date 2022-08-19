@@ -1,5 +1,6 @@
 {
     "name": "zvxas/file-utils",
+    "version": "1.0.0",
     "description": "Utilities for easier work with files.",
     "type": "library",
     "autoload": {
