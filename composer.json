@@ -1,0 +1,16 @@
+{
+    "name": "zvxas/file-utils",
+    "description": "Utilities for easier work with files.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Zvxas\\FileUtils\\": "src/"
+        }
+    },
+    "require": {
+        "ext-dom": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
